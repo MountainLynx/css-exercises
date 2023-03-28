@@ -1,0 +1,19 @@
+.odd_line {
+    background-color: rgb(218, 163, 172);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#im_blue {
+    color: rgb(35, 35, 231);
+    font-size: 36px;
+}
+
+.font_24 {
+    font-size: 24px;
+}
+
+#im_green {
+    background-color: rgb(131, 207, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
